@@ -2,12 +2,12 @@
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/GabrielRHL/fokus?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/GabrielRHL/fokus?style=for-the-badge)
-![Status do Projeto](https://img.shields.io/badge/status-finalizado-brightgreen)
+![Status do Projeto](https://img.shields.io/badge/status-finalizado-brightgreen?style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/GabrielRHL/fokus?style=for-the-badge)
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/GabrielRHL/fokus?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/GabrielRHL/fokus?style=for-the-badge)
 
-<img src="./imagens/site-fokus" alt="Exemplo imagem">
+<img src="./imagens/site-fokus.png" alt="Exemplo imagem">
 
 > O projeto Fokus consiste na ideia de um site para ajudar pessoas a se manterem focadas nas tarefas que desejam fazer.
 
