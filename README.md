@@ -31,6 +31,16 @@ Este projeto está finalizado e não há planos para novas funcionalidades ou at
 - `HTML`
 - `CSS`
 
+## 📝 Contribuição
+
+Contribuições são sempre bem-vindas! Sinta-se à vontade para abrir uma issue ou um pull request se encontrar algum problema ou tiver uma sugestão.
+
+1. Faça um **fork** do projeto.
+2. Crie um **branch** para sua feature (`git checkout -b feature/nome-da-feature`).
+3. Faça o **commit** das suas mudanças (`git commit -m 'Adicionei uma nova feature!'`).
+4. Faça o **push** para o branch (`git push origin feature/nome-da-feature`).
+5. Abra um **Pull Request**.
+
 ## 📁 Como utlizar
 
 Para começar você deve baixar o projeto, após isso você poderá abrir o mesmo utilzando o Visual Studio Code. Siga os seguintes passos:
